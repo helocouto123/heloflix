@@ -1,0 +1,26 @@
+body{
+  collor: white;
+  background: rgb(108, 166, 241);
+  padding:0px;
+}
+
+
+
+
+header{
+ border: solid 20px white;
+font-size: 100px;
+color:black;
+}
+
+section{
+
+  background: rgb(157, 207, 243);
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+img { 
+ height: 280px;
+}
+
+
